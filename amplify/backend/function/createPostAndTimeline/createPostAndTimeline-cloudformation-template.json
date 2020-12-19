@@ -76,7 +76,7 @@
 				"Runtime": "nodejs10.x",
 				"Timeout": "25",
 				"Code": {
-					"S3Bucket": "amplify-boyaki-staging-162435-deployment",
+					"S3Bucket": "amplify-boyaki-design-200824-deployment",
 					"S3Key": "amplify-builds/createPostAndTimeline-73784b4741446d696754-build.zip"
 				}
 			}
